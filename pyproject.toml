@@ -1,0 +1,16 @@
+[project]
+name = "a_song_of_ice_and_fire_analyse"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "KohLain"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
